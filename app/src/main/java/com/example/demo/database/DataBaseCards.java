@@ -77,7 +77,7 @@ public class DataBaseCards {
         card2Hearts.name = "3Club";
         card2Hearts.suits = "club";
         card2Hearts.type = "3";
-        card2Hearts.description = "Three is megit ";
+        card2Hearts.description = "Three is me";
         card2Hearts.logoURL = "#";
         cardModelArrayList.add(card3Club);
 
