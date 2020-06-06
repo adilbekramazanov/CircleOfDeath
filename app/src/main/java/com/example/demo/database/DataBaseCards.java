@@ -229,6 +229,261 @@ public class DataBaseCards {
         card2Club.logoURL = "#";
         cardModelArrayList.add(card7Club);
 
+        CardModel card8Hearts = new CardModel();
+        card2Hearts.id = 25;
+        card2Hearts.name = "8 Hearts";
+        card2Hearts.suits = "hearts";
+        card2Hearts.type = "8";
+        card2Hearts.description = "Eight is mate";
+        card2Hearts.logoURL = "#";
+        cardModelArrayList.add(card8Hearts);
+
+        CardModel card8Diamond = new CardModel();
+        card2Diamond.id = 26;
+        card2Diamond.name = "8 Diamond";
+        card2Diamond.suits = "diamond";
+        card2Diamond.type = "8";
+        card2Diamond.description = "Eight is mate";
+        card2Diamond.logoURL = "#";
+        cardModelArrayList.add(card8Diamond);
+
+        CardModel card8Spade = new CardModel();
+        card2Spade.id = 27;
+        card2Spade.name = "8 Spade";
+        card2Spade.suits = "spade";
+        card2Spade.type = "8";
+        card2Spade.description = "Eight is mate";
+        card2Spade.logoURL = "#";
+        cardModelArrayList.add(card8Spade);
+
+        CardModel card8Club = new CardModel();
+        card2Club.id = 28;
+        card2Club.name = "8 Club";
+        card2Club.suits = "club";
+        card2Club.type = "8";
+        card2Club.description = "Eight is mate";
+        card2Club.logoURL = "#";
+        cardModelArrayList.add(card8Club);
+
+        CardModel card9Hearts = new CardModel();
+        card2Hearts.id = 29;
+        card2Hearts.name = "9 Hearts";
+        card2Hearts.suits = "hearts";
+        card2Hearts.type = "9";
+        card2Hearts.description = "Nine bust a rhyme";
+        card2Hearts.logoURL = "#";
+        cardModelArrayList.add(card9Hearts);
+
+        CardModel card9Diamond = new CardModel();
+        card2Diamond.id = 30;
+        card2Diamond.name = "9 Diamond";
+        card2Diamond.suits = "diamond";
+        card2Diamond.type = "9";
+        card2Diamond.description = "Nine bust a rhyme";
+        card2Diamond.logoURL = "#";
+        cardModelArrayList.add(card9Diamond);
+
+        CardModel card9Spade = new CardModel();
+        card2Spade.id = 31;
+        card2Spade.name = "9";
+        card2Spade.suits = "spade";
+        card2Spade.type = "9";
+        card2Spade.description = "Nine bust a rhyme";
+        card2Spade.logoURL = "#";
+        cardModelArrayList.add(card9Spade);
+
+        CardModel card9Club = new CardModel();
+        card2Club.id = 32;
+        card2Club.name = "9 Club";
+        card2Club.suits = "club";
+        card2Club.type = "9";
+        card2Club.description = "Nine bust a rhyme";
+        card2Club.logoURL = "#";
+        cardModelArrayList.add(card9Club);
+
+        CardModel card10Hearts = new CardModel();
+        card2Hearts.id = 33;
+        card2Hearts.name = "10 Hearts";
+        card2Hearts.suits = "hearts";
+        card2Hearts.type = "10";
+        card2Hearts.description = "Categories";
+        card2Hearts.logoURL = "#";
+        cardModelArrayList.add(card10Hearts);
+
+        CardModel card10Diamond = new CardModel();
+        card2Diamond.id = 34;
+        card2Diamond.name = "10 Diamond";
+        card2Diamond.suits = "diamond";
+        card2Diamond.type = "10";
+        card2Diamond.description = "Categories";
+        card2Diamond.logoURL = "#";
+        cardModelArrayList.add(card10Diamond);
+
+        CardModel card10Spade = new CardModel();
+        card2Spade.id = 35;
+        card2Spade.name = "10";
+        card2Spade.suits = "spade";
+        card2Spade.type = "10";
+        card2Spade.description = "Categories";
+        card2Spade.logoURL = "#";
+        cardModelArrayList.add(card10Spade);
+
+        CardModel card10Club = new CardModel();
+        card2Club.id = 36;
+        card2Club.name = "10 Club";
+        card2Club.suits = "club";
+        card2Club.type = "10";
+        card2Club.description = "Categories";
+        card2Club.logoURL = "#";
+        cardModelArrayList.add(card10Club);
+
+        CardModel cardJackHearts = new CardModel();
+        card2Hearts.id = 37;
+        card2Hearts.name = "Jack Hearts";
+        card2Hearts.suits = "hearts";
+        card2Hearts.type = "Jack";
+        card2Hearts.description = "Jack is back";
+        card2Hearts.logoURL = "#";
+        cardModelArrayList.add(cardJackHearts);
+
+        CardModel cardJackDiamond = new CardModel();
+        card2Diamond.id = 38;
+        card2Diamond.name = "Jack Diamond";
+        card2Diamond.suits = "diamond";
+        card2Diamond.type = "Jack";
+        card2Diamond.description = "Jack is back";
+        card2Diamond.logoURL = "#";
+        cardModelArrayList.add(cardJackDiamond);
+
+        CardModel cardJackSpade = new CardModel();
+        card2Spade.id = 39;
+        card2Spade.name = "Jack";
+        card2Spade.suits = "spade";
+        card2Spade.type = "Jack";
+        card2Spade.description = "Jack is back";
+        card2Spade.logoURL = "#";
+        cardModelArrayList.add(cardJackSpade);
+
+        CardModel cardJackClub = new CardModel();
+        card2Club.id = 40;
+        card2Club.name = "Jack Club";
+        card2Club.suits = "club";
+        card2Club.type = "Jack";
+        card2Club.description = "Jack is back";
+        card2Club.logoURL = "#";
+        cardModelArrayList.add(cardJackClub);
+
+        CardModel cardQueenHearts = new CardModel();
+        card2Hearts.id = 41;
+        card2Hearts.name = "Queen Hearts";
+        card2Hearts.suits = "hearts";
+        card2Hearts.type = "Queen";
+        card2Hearts.description = "Question master";
+        card2Hearts.logoURL = "#";
+        cardModelArrayList.add(cardQueenHearts);
+
+        CardModel cardQueenDiamond = new CardModel();
+        card2Diamond.id = 42;
+        card2Diamond.name = "Queen Diamond";
+        card2Diamond.suits = "diamond";
+        card2Diamond.type = "Queen";
+        card2Diamond.description = "Question master";
+        card2Diamond.logoURL = "#";
+        cardModelArrayList.add(cardQueenDiamond);
+
+        CardModel cardQueenSpade = new CardModel();
+        card2Spade.id = 43;
+        card2Spade.name = "Queen";
+        card2Spade.suits = "spade";
+        card2Spade.type = "Queen";
+        card2Spade.description = "Question master";
+        card2Spade.logoURL = "#";
+        cardModelArrayList.add(cardQueenSpade);
+
+        CardModel cardQueenClub = new CardModel();
+        card2Club.id = 44;
+        card2Club.name = "Queen Club";
+        card2Club.suits = "club";
+        card2Club.type = "Queen";
+        card2Club.description = "Question master";
+        card2Club.logoURL = "#";
+        cardModelArrayList.add(cardQueenClub);
+
+        CardModel cardKingHearts = new CardModel();
+        card2Hearts.id = 45;
+        card2Hearts.name = "King Hearts";
+        card2Hearts.suits = "hearts";
+        card2Hearts.type = "King";
+        card2Hearts.description = "King's cup";
+        card2Hearts.logoURL = "#";
+        cardModelArrayList.add(cardKingHearts);
+
+        CardModel cardKingDiamond = new CardModel();
+        card2Diamond.id = 46;
+        card2Diamond.name = "King Diamond";
+        card2Diamond.suits = "diamond";
+        card2Diamond.type = "King";
+        card2Diamond.description = "King's cup";
+        card2Diamond.logoURL = "#";
+        cardModelArrayList.add(cardKingDiamond);
+
+        CardModel cardKingSpade = new CardModel();
+        card2Spade.id = 47;
+        card2Spade.name = "King";
+        card2Spade.suits = "spade";
+        card2Spade.type = "King";
+        card2Spade.description = "King's cup";
+        card2Spade.logoURL = "#";
+        cardModelArrayList.add(cardKingSpade);
+
+        CardModel cardKingClub = new CardModel();
+        card2Club.id = 48;
+        card2Club.name = "King Club";
+        card2Club.suits = "club";
+        card2Club.type = "King";
+        card2Club.description = "King's cup";
+        card2Club.logoURL = "#";
+        cardModelArrayList.add(cardKingClub);
+
+        CardModel cardAceHearts = new CardModel();
+        card2Hearts.id = 49;
+        card2Hearts.name = "Ace Hearts";
+        card2Hearts.suits = "hearts";
+        card2Hearts.type = "Ace";
+        card2Hearts.description = "New rule!";
+        card2Hearts.logoURL = "#";
+        cardModelArrayList.add(cardAceHearts);
+
+        CardModel cardAceDiamond = new CardModel();
+        card2Diamond.id = 50;
+        card2Diamond.name = "Ace Diamond";
+        card2Diamond.suits = "diamond";
+        card2Diamond.type = "Ace";
+        card2Diamond.description = "New rule!";
+        card2Diamond.logoURL = "#";
+        cardModelArrayList.add(cardAceDiamond);
+
+        CardModel cardAceSpade = new CardModel();
+        card2Spade.id = 51;
+        card2Spade.name = "Ace";
+        card2Spade.suits = "spade";
+        card2Spade.type = "Ace";
+        card2Spade.description = "New rule!";
+        card2Spade.logoURL = "#";
+        cardModelArrayList.add(cardAceSpade);
+
+        CardModel cardAceClub = new CardModel();
+        card2Club.id = 52;
+        card2Club.name = "Ace Club";
+        card2Club.suits = "club";
+        card2Club.type = "Ace";
+        card2Club.description = "New rule!";
+        card2Club.logoURL = "#";
+        cardModelArrayList.add(cardAceClub);
+
+
+
+
 
         return cardModelArrayList;
     }

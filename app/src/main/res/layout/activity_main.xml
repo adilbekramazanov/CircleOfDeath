@@ -54,7 +54,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/cardsLeft"
-            android:text="Cards in deck: 8"
+            android:text="Cards in deck: 52"
             android:textSize="20dp"
             android:layout_marginTop="50dp"
             android:layout_gravity="center"
