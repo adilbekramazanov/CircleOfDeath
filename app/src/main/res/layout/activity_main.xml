@@ -4,4 +4,61 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activity.MainActivity"/>
+    tools:context=".activity.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/llHeader"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_marginTop="150dp"
+            android:layout_gravity="center"
+            android:id="@+id/cardName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Your card is ..."
+            android:textSize="30dp"
+            ></TextView>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/cardDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=">>>"
+            android:textSize="20dp"
+            ></TextView>
+
+
+        <Button
+            android:layout_marginTop="200dp"
+            android:id="@+id/buttonClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="new card"
+
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cardsLeft"
+            android:text="Cards in deck: 8"
+            android:textSize="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center"
+            ></TextView>
+
+<!--        <FrameLayout-->
+<!--            android:id="@+id/flContainer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"/>-->
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
